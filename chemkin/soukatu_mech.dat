@@ -1,0 +1,11 @@
+ELEMENTS
+ H   O   N   AR
+END
+SPECIE
+H2 O2 H2O N2
+END
+REACTIONS
+ 2H2 + O2            => 2H2O        5.00E+8  0.0   15780.0! 1
+	FORD	/ C7H16	0.25 /
+	FORD	/ O2 1.5 /
+END
